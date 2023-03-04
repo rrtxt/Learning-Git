@@ -1,0 +1,22 @@
+body{
+    background-color: wheat;
+}
+
+.title{
+    text-align: center;
+}
+
+.learn-list{
+    margin-top: 50px;
+}
+
+.learn-list h3{
+    text-align: center;
+}
+
+.learn-list ul{
+    display: flex;
+    list-style-type: none;
+    gap: 100px;
+    justify-content: center;
+}
